@@ -245,7 +245,7 @@ if (!empty($_SESSION['_contact_form_success'])) {
                         </td>
                         <td class="skills-table-data">Intermediate level CSS.
                         </td>
-                        <td class="skills-table-data">Intermediate level JS.
+                        <td class="skills-table-data">Lower-Intermediate level JS.
                         </td>
                         <td class="skills-table-data">Beginner level JQuery.
                         </td>

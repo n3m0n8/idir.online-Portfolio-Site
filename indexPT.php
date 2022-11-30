@@ -18,25 +18,25 @@ if (!empty($_SESSION['_contact_form_success'])) {
 <!DOCTYPE html>
 <html lang='en' xmlns ='http://www.w3.org/1999/xhtml'>
 <head>
-    <title>Idir Ouahes | Développeur Full-Stack</title>
+    <title>Idir Ouahes | Desenvolvedor de Pilha Completa</title>
     <link rel="icon" type="image/x-icon" href="assets/graphics/symbols/idiroLogo.png">
     <link rel="stylesheet" href="styles/idir.dev_styles.css">
     <meta charset="utf-8">
-    <meta name='Description' content="Idir est un développeur full-stack. Bienvenue sur la page web de son portfolio qui présente son travail.">
-    <meta application name="Site portfolio d'Idir.">
+    <meta name='Description' content='Idir é um desenvolvedor de pilha cheia. Bem-vindo à página web do seu portfólio, demonstrando o seu trabalho.'>
+    <meta application name="Página da portfólio de Idir">
     <meta name=theme-color content=#F9F9F9> 
-    <meta pagename='Portfolio' content="Site Web pour le portfolio d'un programmeur Web pour les clients et employeurs potentiels.">
-    <meta name='keywords' content='Idir, Ouahes, Development des sites web, Full-Stack, développeur, Site, Portfolio, programmeur Web, design Web'>
-    <meta name='subject' content='Programmation'>
-    <meta name='summary' content="Ceci est un site pour le portfolio d'un développeur de sites Web">
+    <meta pagename='portfólio' content='Página web de programadores para potenciais clientes e empregadores.'>
+    <meta name='keywords' content='Idir, Ouahes, Desenvolvimento Web, Full-Stack, Desenvolvedor, Websites, Portfolio, Programador, Web Designer, Web Designer, Web Design'>
+    <meta name='subject' content='Programming'>
+    <meta name='summary' content='Este é um site de portfólio para um webdesenvolvedor de pilha completa'>
     <meta name='owner' content='Idir Ouahes'>
-    <meta name='topic' content='Coding'>
+    <meta name='topic' content='Codificação'>
     <meta name='revised' content='Tuesday, October 4th, 2022, 20:43 pm'>
-    <meta name='MobileOptimized' content='320'>  
-    <title>Le site web du portfolio d'Idir Ouahes, un développeur web complet.</title>
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <title>A Página Web do Portfolio de Idir Ouahes, um desenvolvedor web em pilha completa.</title>
 </head>
 <!--noscript tag -->    
-<noscript class="noscript">Cette page peut fonctionner sans Javascript mais elle est optimisée lorsque Javascript est activé. Si vous voulez, allez dans les paramètres de votre navigateur et activez Javascript. Sinon, adoptez l'approche la plus sûre et lisez la page comme si elle datait de 1996!</noscript>
+<noscript class="noscript">Esta página pode funcionar sem Javascript mas é optimizada quando o Javascript está activado. Se quiser, navegue para as definições do seu navegador e active o Javascript. Caso contrário, adopte a abordagem mais segura e leia a página como se fosse 1993.</noscript>
 <!--Header Title and Sidebars -->    
     <header>
 <!--Left-SideBar & Navigation -->    
@@ -53,12 +53,12 @@ if (!empty($_SESSION['_contact_form_success'])) {
             <span class="navbar-container">     
             <table class="navbar-table">
                 <th class="navbar-text">
-                    <p><a href="#welcome">SALUT</a><br></p>
-                    <p><a href="#about">MOI</a><br></p>
-                    <p><a href="#samples">EXEMPLES</a><br></p>
+                    <p><a href="#welcome">Bem-vindo</a><br></p>
+                    <p><a href="#about">Sobre</a><br></p>
+                    <p><a href="#samples">Amostras</a><br></p>
                     <p><a href="#mycv">C.V.<br></p>
-                    <p><a href="#skills">SAVOIRS</a><br></p>
-                    <p><a href="#contact">CONTACT</a></p>
+                    <p><a href="#skills">Habilidades</a><br></p>
+                    <p><a href="#contact">Contacto</a></p>
                 </th>
                 <th>
                     <img class="navbar-trigger" id="navTrigger"src="assets/images/btns/mesh1.png">
@@ -83,7 +83,7 @@ if (!empty($_SESSION['_contact_form_success'])) {
         <section class="body-grid" id="welcome">
             <span class="splash-page-container">
                 <h1 class="main-header-h1">
-                IDIR OUAHES — DEVELOPPEUR FULL-STACK
+                    IDIR OUAHES — DESENVOLVEDOR FULL-STACK 
                 </h1>
                 <!--
                 <div class="main-navbar-img" >
@@ -92,7 +92,7 @@ if (!empty($_SESSION['_contact_form_success'])) {
                 </div> 
                 -->
                 <h2 class="main-header-h2">
-                Bienvenue sur mon site portfolio.
+                    Bem-vindo a mi página da portfólio.
                 </h2> 
             </span>            
 <!--Section 2: About Me-->
@@ -100,28 +100,28 @@ if (!empty($_SESSION['_contact_form_success'])) {
             <section class="about-container" id="about">
                 <div>
                     <h4 class="about-me-header">
-                    QUI SUIS-JE?
+                    SOBRE ME
                     </h4>
-                        <h5 class="about-me-subheader">J'étais un historien, puis j'ai pris du html au genou... 
+                        <h5 class="about-me-subheader">Eu era um historiador, até levar HTML no joelho... 
                         </h5>
                             <img src="https://lh3.googleusercontent.com/fife/AAbDypDAjwTJBGpxdz3OW-f_zofhBT8sJv5emnjdmIzru0HinHOVUrzmQ5_OQ04wHR5xin6sqd4CTTkHPuMqHUdheDnrvvi25PHBQINEmcHpgUPdj_ddRCt0aspZgiJ4YgZ5mERhrmdLXksCz6WuW1zJYRGVmg6-OTvYs-spUgEt6UPZwchW11MFD5Ek6QwO2ID3D-QRrVRJnSgN6LFGM7xWzR6lok2K53psICRtxXHI0j2fH5zVsfTTsSefITp0h5hFT0oEiOGzAQTCxSfm6SWHR5ECuuS5401ijicocxrBxAXzs55evKi98cTp0ErKYzpmNsHJsnAlSpBFgmnsGu7YoWvA336T5HwkevwVHaIDtFXSqcGCr8GBUCn7jIUwCPFPX_ie7Y3qNF1Vr8Bl-nnkH3PnNchN5wJwccFy7LsGChEBjlJd1REBmUq3Qu2AbHaOumCWjMRYzVOuCqoKaC0zzJZErQ9GOfVd7X574RU5tUdeJPGBTTwEabTyqPGsVLUWmZSa5xGReWsiZBooFQ_S5N3WbPEJ_v0qxDFQsJiWT88sTpR38COwj0EdTZnlqZgXi-QXXlcSzg16bANcAp_dkS2qB5tcH-1bzpQu0GYnVo_a0brPzoypWPmqEKypfhIBSeLfaf1USqGTt4A_tf60w-VOpD1g4t9AnxEG3ZYjQUk5cxYcVDOdiRDOSJvtsNMBjZ-2yCJkzrT3Ry7hCt6Q0vwu8PM-dDX5_m05wkmf7hKVf-WVqy-WZ4FhLKQZrtBW2iSviRdetMuh2_c1gwpbxm_q8FsfMDjNWvc3PBFyF-ohMMmKuw196n-vaL9iYPMun1lvS7qp3ZlqHYRWusAy8_LrXUuuCGgYLc7NbhTokBepEUjdAE5gLcgN0qigWY3foPEqYF2ZIESLOnZpSwPruVJ_tf2UoZFFi5fDY1jfe26SzZrBCzrJr-OEVL0-w8aD7Hs=w1280-h542" class="iprofile">
-                            <p class="about-me-textbox">Salut, je suis Idir. J'ai grandi en démontant mes ordis et en jouant les jeux dial-up très lents. <br> Dans la vingtaine, j'ai suivi une formation d'historien du Moyen-Orient moderne et j'ai donné des cours d'histoire et de relations internationales. J'aime toujours l'histoire, mais ma passion initiale pour la technologie a refait surface il y a quelques années. 
+                            <p class="about-me-textbox">Olá, eu sou Idir. Cresci a desmontar computadores e a jogar jogos de dial-up dolorosamente lentos.  <br> Nos meus 20 anos fui educado como historiador do Médio Oriente moderno e leccionei em história e relações internacionais. Ainda amo a história mas a minha paixão inicial pela tecnologia reemergiu há alguns anos atrás.
                             </p>
-                            <p class=about-me-textbox> J'ai commencé à apprendre le langage HTML. Je me suis dit qu'il me faudrait des semaines, voire des mois pour me familiariser... mais au lieu de cela, j'ai créé un site (plutôt mauvais) en un jour.<br>
-                            <br>Mon parcours d'apprentissage était principalement axé sur la théorie, alors que je travaillais encore comme conférencier. Le premier véritable langage que j'ai commencé à apprendre était Java, dont la courbe d'apprentissage était abrupte mais qui, rétrospectivement, s'est avéré très bénéfique puisqu'il vous oblige à apprendre les aspects architecturaux de l'informatique (compilation vs. exécution, flux d'analyse, gestion de la mémoire, scoping etc...). <br>
-                            <br>Mes langages suivants ont été Python et PHP. Je les ai trouvés beaucoup plus fluides que Java. Jusqu'à présent, cependant, PHP est celui qui a retenu mon attention. C'est un langage tellement fluide et interconnecté, puissant et omniprésent d'une manière effrayante mais géniale. PHP m'a d'abord permis de voir la persistance de l'interconnexion entre les machines sur le(s) internet(s) - et comment (presque) tous ces hôtes et serveurs fonctionnent fondamentalement dans un seul espace (le web tel qu'il était autrefois plus clairement reconnu).<br>
-                            <br>Plus récemment, je me suis surtout concentré sur le côté frontal, principalement via Javascript mais aussi avec un certain engagement avec Node et JQuery.
-                            J'espère apprendre Angular et améliorer mes connaissances de base des bases de données (SQL, Mongo et Redis) dans les mois à venir. À moyen terme, j'essaierai d'apprendre le framework/la saveur Laravel-Livewire afin de devenir un full-stack privilégiant le PHP(avec des bases solides en JS et en bases de données).
+                            <p class="about-me-textbox">  Comecei a aprender html. Disse a mim próprio que levaria semanas, talvez meses para me familiarizar... mas em vez disso estava a fazer um site (bastante mau) no espaço de um dia. <br>
+                            <br>O meu percurso de aprendizagem centrou-se principalmente na teoria enquanto ainda trabalhava como conferencista. A primeira linguagem adequada que comecei a aprender foi Java, que foi uma curva de aprendizagem íngreme mas, em retrospectiva, realmente benéfica, uma vez que realmente disciplina a aprendizagem dos aspectos arquitectónicos da informática (compilação vs. tempo de execução, fluxo de análise, gestão de memória, delimitação do âmbito, etc...).  <br>
+                            <br> As minhas próximas linguagens foram Python e PHP. I found them to be much more fluid than Java. So far, however, PHP is the one that's caught my heart. It is such a fluid and inter-connecting language, powerful and ubiquitous in a scary but awesome way. O PHP permitiu-me primeiro ver a persistência da interligação entre máquinas na(s) Internet - e como (quase) todos estes anfitriões e servidores estão fundamentalmente a funcionar num só espaço (a teia como costumava ser mais claramente reconhecida).<br>
+                            <br>  Mais recentemente, concentrei-me principalmente no lado da frente, principalmente via Javascript, mas também com algum envolvimento com Node e JQuery. Espero aprender Angular e melhorar as minhas bases de dados básicas (SQL, Mongo e Redis) nos próximos meses. A médio prazo, tentarei aprender a estrutura/fabor Laravel-Livewire de modo a tornar-me um PHP-first full-stack (com base sólida em JS e bases de dados).
                             </br>
-                            <br>Vous trouverez ci-dessous un aperçu de mes compétences en cours, mon portefeuille d'exemples de sites Web au fur et à mesure de leur apparition, mon C.V. officiel et un formulaire de contact.
-                            </p>                </div>
+                            <br>Abaixo, encontrará um esboço das minhas actuais competências, a minha carteira de exemplos de websites à medida que estes surgem, o meu C.V. formal e um formulário de contacto.
+                            </p>
+                </div>
             </section>
 
 <!--Section 3: Samples-->          
         <span class="separators"></span>                  
         <section>
         <!--skills table 1 Front-End--> 
-                <h3 class='samples-header' id="samples"> EXEMPLES.
+                <h3 class='samples-header' id="samples"> AMOSTRAS
                 </h3>
                 <div class="samples-gallery-container">
                     <table>
@@ -131,21 +131,24 @@ if (!empty($_SESSION['_contact_form_success'])) {
                         <th>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</th>
                     </tr>
                     <tr>
-                        <td class="sample-headline">Site de la Gazette Affaires Méditerranéenes. <a class="video-link" href="https://medmatters.infinityfreeapp.com/" target="_blank">VOIR</a>
+                        <td class="sample-headline">Sítio de boletim informativo sobre assuntos mediterrânicos. <a class="video-link" href="https://medmatters.infinityfreeapp.com/" target="_blank">VISÃO
+</a>
                         </td>
                         <td> &nbsp&nbsp</td>
-                        <td class="sample-headline">Site d'un cabinet d'avocat avec Wordpress Vanille .<a class="video-link" href="http://ribeirosequeira.epizy.com/" target="_blank">VOIR</a>
+                        <td class="sample-headline">Escritório Legal Vanilla WordPress site.<a class="video-link" href="http://ribeirosequeira.epizy.com/" target="_blank">VISÃO
+</a>
                         </td>
                     </tr>        
                     <tr>
-                        <td class="sample-data">+ Purement avec HTML,CSS, JS and PHP classique.<br>
-                                + Utilisation d'un "fetch api" aussi bien que des service superimposer de google translate/carte de la météo/services gdpr.<br>
-                                + Base de Donnés mysql avec objets PHP-PDO fournissant un service d'abonnement avec un courriel de veirification.<br>          
+                        <td class="sample-data">+ Purely Apenas HTML,CSS, JS e PHP baunilha.<br>
+                                +  Utilização de fetch api bem como google translate/
+                                mapa meteorológico/serviços da RGPD.<br>
+                                + base de dados mysql com objectos PHP-PDO permitindo o serviço de subscrição. <br>          
                         </td>
                         <td> &nbsp&nbsp</td>
-                        <td class="sample-data">+ Thème WordPress enfant avec plugins.
+                        <td class="sample-data">+ Tema WordPress infantil com plugins.
                             <br>
-                                + Personnalisation du CSS/JS et du fichier functions.php.
+                                + personalização de CSS e functions.php.
                             <br>
                         </td>
                     </tr>
@@ -162,9 +165,9 @@ if (!empty($_SESSION['_contact_form_success'])) {
 <!--Section 4: Interactive C.V -->
         <span class="separators" id="mycv"></span>      
         <section class="cv-container">
-            <p class='cv-header'>C.V. COMPLET</p>
+            <p class='cv-header'>C.V. COMPLETO</p>
             <br><br> 
-            <p>Ce CV se charge normalement avec Firefox mais la politique de sécurité de Safari/Google Chrome bloque le chargement sans Google 0auth. S'il ne se charge pas pour vous, consultez le C.Vs <a href='https://drive.google.com/drive/folders/1yRS7zytWNl35OFtVs_8VqjdnP1tFNfQg?usp=share_link' target="_blank">ici</a>.</p>
+            <p>Este CV é obtido normalmente com Firefox mas a política de segurança do Safari/ Google Chrome bloqueia a obtenção sem Google 0auth. Se não carregar para si, veja o C.Vs <a href='https://drive.google.com/drive/folders/1yRS7zytWNl35OFtVs_8VqjdnP1tFNfQg?usp=share_link' target="_blank">aqui</a>.</p>
             <span class=CV-Selector-Container>
                 <select>
                     <option>ENGLISH</option>
@@ -199,7 +202,7 @@ if (!empty($_SESSION['_contact_form_success'])) {
         <!--Section 5: Skills-->         
         <span class="separators"></span>        
         <section class="skillz-container" id="skills">
-                <p class="skillz-header">CCOMPÉTENCES ÉMERGENTES:</p> 
+                <p class="skillz-header">COMPETÊNCIAS EMERGENTES:</p> 
     <!--skills table 1 Front-End--> 
                 <div class="skills-table-header"> Front-End.
                 </div>
@@ -240,25 +243,25 @@ if (!empty($_SESSION['_contact_form_success'])) {
                         </td>
                     </tr>        
                     <tr>
-                        <td class="skills-table-data">Niveau Intermedaire de HTML.
+                        <td class="skills-table-data">Nível intermédio de HTML.
                         </td>
-                        <td class="skills-table-data">Niveau Intermedaire de CSS.
+                        <td class="skills-table-data">Nível intermédio de CSS.
                         </td>
-                        <td class="skills-table-data">Niveau débutant-intermedaire de JS.
+                        <td class="skills-table-data">Nível intermédio-intermédio inferior de JS.
                         </td>
-                        <td class="skills-table-data">Niveau débutant de JQuery.
+                        <td class="skills-table-data">Nível principiante de JQuery.
                         </td>
-                        <td class="skills-table-data">Bases de Typescript.
+                        <td class="skills-table-data">Noções básicas de Typescript.
                         </td>
-                        <td class="skills-table-data">Bases de React.
+                        <td class="skills-table-data">Noções básicas de React.
                         </td>
-                        <td class="skills-table-data">Bases de Tailwind.
+                        <td class="skills-table-data">Noções básicas de Tailwind.
                         </td>
-                        <td class="skills-table-data">Foundations of Laravel Livewire.
+                        <td class="skills-table-data">Noções básicas de Laravel Livewire.
                         </td>
-                         <td class="skills-table-data">Bases de Angular.
+                         <td class="skills-table-data">Noções básicas de Angular.
                         </td>
-                        <td class="skills-table-data">Bases de VueJS.
+                        <td class="skills-table-data">Noções básicas de VueJS.
                         </td>
                     </tr>
                     </table>
@@ -321,43 +324,43 @@ if (!empty($_SESSION['_contact_form_success'])) {
                         </td>
                     </tr>        
                     <tr>
-                        <td class="skills-table-data">Bases de Apache HTTP-Server.
+                        <td class="skills-table-data">Noções básicas de Apache HTTP-Server.
                         </td>
-                        <td class="skills-table-data">Niveau débutant-intermedaire de PHP.
+                        <td class="skills-table-data">Nível intermédio-intermédio inferior de PHP.
                         </td>
-                        <td class="skills-table-data">Niveau débutant de Node.
+                        <td class="skills-table-data">Nível principiante de Node.
                         </td>
-                        <td class="skills-table-data">Bases de Postman.
+                        <td class="skills-table-data">Noções básicas de  Postman.
                         </td>
-                        <td class="skills-table-data">Niveau débutant de Java.
+                        <td class="skills-table-data">Nível principiante de Java.
                         </td>
-                        <td class="skills-table-data">Bases de Laravel.
+                        <td class="skills-table-data">Noções básicas de  Laravel.
                         </td>
-                        <td class="skills-table-data">Niveau débutant de C#.
+                        <td class="skills-table-data">Nível principiante de C#.
                         </td>
-                        <td class="skills-table-data">Bases de Mongo.
+                        <td class="skills-table-data">Noções básicas de  Mongo.
                         </td>
-                        <td class="skills-table-data">Niveau débutant de MySQL
+                        <td class="skills-table-data">Nível principiante de MySQL
                         </td>
-                        <td class="skills-table-data">Bases de Redis.
+                        <td class="skills-table-data">Noções básicas de  Redis.
                         </td>
-                        <td class="skills-table-data">Bases de Spring Boot.
+                        <td class="skills-table-data">Noções básicas de  Spring Boot.
                         </td>
-                        <td class="skills-table-data">Niveau débutant de Git.
+                        <td class="skills-table-data">Nível principiante de Git.
                         </td>
-                        <td class="skills-table-data">Niveau débutant-intermedaire de Python.
+                        <td class="skills-table-data">Nível intermédio-intermédio inferior de Python.
                         </td>
-                        <td class="skills-table-data">Bases de XAMPP stack.
+                        <td class="skills-table-data">Noções básicas de  XAMPP stack.
                         </td>
-                        <td class="skills-table-data">Niveau débutant de CPanel.
+                        <td class="skills-table-data">Nível principiante de CPanel.
                         </td>
-                        <td class="skills-table-data">Niveau débutant de PhpMyAdmin.
+                        <td class="skills-table-data">Nível principiante de PhpMyAdmin.
                         </td>
                     </tr>
                     </table>
                 </div>  
     <!--skills table 3 Networking & Security--> 
-                <div class="skills-table-header">Réseaux.
+                <div class="skills-table-header">Rede
                 </div>
                 <div class="skills-table">
                     <table>
@@ -387,19 +390,19 @@ if (!empty($_SESSION['_contact_form_success'])) {
                         </td>
                     </tr>        
                     <tr>
-                        <td class="skills-table-data">Niveau débutant-intermedaire de GNU Bash.
+                        <td class="skills-table-data">Nível intermédio de GNU Bash.
                         </td>
-                        <td class="skills-table-data">Bases de Docker.
+                        <td class="skills-table-data">Noções básicas de  Docker.
                         </td>
-                        <td class="skills-table-data">Niveau débutant-intermedaire de NMap.
+                        <td class="skills-table-data">Nível intermédio de NMap.
                         </td>
-                        <td class="skills-table-data">Niveau débutant de Kali OS.
+                        <td class="skills-table-data">Nível principiante de Kali OS.
                         </td>
-                        <td class="skills-table-data">Niveau débutant de ParrotOS.
+                        <td class="skills-table-data">Nível principiante de ParrotOS.
                         </td>
-                        <td class="skills-table-data">Niveau débutant de WireShark.
+                        <td class="skills-table-data">Nível principiante de WireShark.
                         </td>
-                        <td class="skills-table-data">Niveau débutant de  PacketTracer.
+                        <td class="skills-table-data">Nível principiante de PacketTracer.
                         </td>
                         <td>
                     </tr>
@@ -410,8 +413,8 @@ if (!empty($_SESSION['_contact_form_success'])) {
         <span class="separators"></span>              
         <section class="contact-container" id="contact">
             <div>
-                <p class="contact-header">ME CONTACTER.</p>
-                <p>Veuillez remplir le formulaire ci-dessous si vous souhaitez nous contacter:
+                <p class="contact-header">CONTACTAR-ME.</p>
+                <p>Por favor, preencha o formulário abaixo se quiser entrar em contacto:
                 </p>
             </div>
                 <!-- FORM-->
@@ -419,7 +422,7 @@ if (!empty($_SESSION['_contact_form_success'])) {
                 if (!empty($success)) {
             ?>
                 <span class="form-response-container">
-                    <div class="form-success">Votre a essage a été envoyé avec succès   !</div>
+                    <div class="form-success">A sua mensagem foi enviada com sucesso!</div>
                 </span>    
             <?php
                 }
@@ -434,23 +437,23 @@ if (!empty($_SESSION['_contact_form_success'])) {
                 }
             ?>
             <form  method="POST" class="form" id="commentForm" action="*****************/formHandler.php">
-                <label class="form-labels" for="sndrName" aria-label="required">Please enter your name:*
+                <label class="form-labels" for="sndrName" aria-label="required">Por favor, introduza o seu nome:*
                 </label> 
                     <input class='form-labels-box' type="text"  name="sndrName" required pattern="^[A-Za-z .]+$" placeholder="e.g. Adam Jensen">
-                <label class="form-labels" for="sndrEmail" aria-label="required"> Veuillez ecrire votre nom s'il-vous-plait: :*
+                <label class="form-labels" for="sndrEmail" aria-label="required"> Por favor, introduza o seu email:*
                 </label>
                     <input class='form-labels-box' type="email" minlength="5" placeholder="e.g name@domain.ending" name="sndrEmail" required>
-                <label class="form-labels" for="cntctReason" aria-label="required"> Pourquoi m'écriver vous?*
+                <label class="form-labels" for="cntctReason" aria-label="required"> Porque me está a contactar?*
                 </label>
                     <select class='form-btns' style="cursor:cell"  name="cntctReason">
-                        <option>Embauche.
+                        <option>Contratação.
                         </option>
-                        <option>  Consultation.
+                        <option> Consulta.
                         </option>
-                        <option> Autre Raison.
+                        <option> Outro Motivo.
                         </option>
                     </select>
-                <label class="form-labels" aria-label="required" for="msgCntnt">Veuillez ecrire votre message:*    
+                <label class="form-labels" aria-label="required" for="msgCntnt">Por favor escreva aqui a sua mensagem:*    
                 </label>
                 <textarea class="form-text" name="msgCntnt" required>
                 </textarea>
